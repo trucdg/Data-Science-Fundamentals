@@ -1,4 +1,6 @@
 # Git / GitHub Lab
+Name: Truc Duong
+BUID: U40568683
 
 ## Objective
 
